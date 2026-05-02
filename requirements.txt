@@ -1,0 +1,30 @@
+streamlit
+# utilities
+numpy
+pandas
+
+
+# FACE RECOGNITION
+scikit-learn
+dlib-bin
+
+git+https://github.com/ageitgey/face_recognition_models
+setuptools<70.0.0
+
+
+supabase     
+           #provide database for free of 1 or 2GB 
+bcrypt      
+            #hasing ke methods deta h means password ko rendom strings me convert kar dena h taki vo lik nhi ho
+
+
+segno
+pillow     #preproceccing the image
+
+
+
+
+
+librosa
+resemblyzer
+
