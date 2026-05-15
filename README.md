@@ -30,16 +30,16 @@ This project demonstrates:
 🛠️ Tech Stack
 
  Programming Language
-    * Python
+     * Python
  Framework
-    * Streamlit
+     * Streamlit
  Libraries
-    * Pandas
-    * NumPy
-    * Scikit-learn
+     * Pandas
+     * NumPy
+     * Scikit-learn
  Tools
-    * Git
-    * GitHub
+     * Git
+     * GitHub
 
 Project Structure
 Bash
