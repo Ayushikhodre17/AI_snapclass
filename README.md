@@ -6,7 +6,7 @@ AI-powered web application built using Python and Streamlit for interactive lear
 
 
 🚀 Live Demo
-AI SnapClass Live App
+AI SnapClass Live App : https://ai-snapclass-main-ayushi.streamlit.app/
 
 
 📌 Overview
