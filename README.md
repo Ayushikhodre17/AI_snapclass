@@ -28,6 +28,7 @@ This project demonstrates:
 * Beginner-friendly architecture
 
 🛠️ Tech Stack
+
  Programming Language
     * Python
  Framework
